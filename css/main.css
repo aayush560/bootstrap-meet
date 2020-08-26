@@ -1,0 +1,17 @@
+nav ul li {
+    display: inline-block;
+}
+header {
+    background-color: black;
+    color: #fff;
+}
+.sidebar nav ul li {
+    display: block;
+}
+aside.sidebar {
+    background: yellow;
+}
+footer {
+    background-color: blue;
+    color: #fff;
+}
